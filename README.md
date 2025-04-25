@@ -9,6 +9,8 @@
 **📅 Last Updated:** 2025  
 **🌍 Languages:** English / Русский
 
+![ChatGPT Image 25 апр  2025 г , 11_18_00](https://github.com/user-attachments/assets/30106053-4fdf-449a-8b6e-9c10ae3d19a8)
+
 ---
 
 ## 🌐 Language / Язык
