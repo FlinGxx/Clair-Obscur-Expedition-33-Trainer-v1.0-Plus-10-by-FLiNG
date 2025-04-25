@@ -24,7 +24,7 @@
 
 ### ⚙️ Trainer Overview
 
-FLiNG-style standalone trainer for **Clair Obscur: Expedition 33**, designed to enhance your experience in a surreal world of mystery, turn-based action, and RPG mechanics. Works offline, no setup required.
+FLiNG standalone trainer for **Clair Obscur: Expedition 33**, designed to enhance your experience in a surreal world of mystery, turn-based action, and RPG mechanics
 
 ---
 
@@ -50,15 +50,13 @@ FLiNG-style standalone trainer for **Clair Obscur: Expedition 33**, designed to 
 2. Run the `.exe` trainer as **Administrator**
 3. Press the desired hotkeys in-game
 
-> ⚠️ For **offline/singleplayer** use only. Not designed for online multiplayer.
-
 ---
 
 ## <a name="russian-version">🇷🇺 Русская версия</a>
 
 ### ⚙️ Обзор трейнера
 
-Официальный трейнер в стиле **FLiNG** для игры **Clair Obscur: Expedition 33**. Получите неограниченное здоровье, моментальные навыки, опыт и многое другое. Идеально подходит для одиночной игры и исследования мира.
+Официальный трейнер в стиле **FLiNG** для игры **Clair Obscur: Expedition 33**. Получите неограниченное здоровье, моментальные навыки, опыт и многое другое
 
 ---
 
@@ -83,8 +81,6 @@ FLiNG-style standalone trainer for **Clair Obscur: Expedition 33**, designed to 
 1. Запустите **Clair Obscur: Expedition 33**
 2. Запустите трейнер от имени администратора
 3. Используйте горячие клавиши в игре
-
-> ⚠️ Только для одиночного режима или оффлайн-игры.
 
 ---
 
